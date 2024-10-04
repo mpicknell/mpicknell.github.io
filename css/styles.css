@@ -32,7 +32,7 @@ header ul li a {
 .hero {
     background: url('../images/hero-banner.jpg') no-repeat center center;
     background-size: cover;
-    color: white;
+    color: red;
     text-align: center;
     padding: 100px 0;
 }
